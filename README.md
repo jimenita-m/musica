@@ -17,16 +17,3 @@ Jimena Zuñiga y Luciana Lozada
 ## &#x20;Estado actual del proyecto
 
 El proyecto se encuentra en desarrollo. Actualmente, cuenta con información general sobre la música y se irán agregando nuevas secciones sobre sus géneros, características y beneficios.
-## Géneros musicales
-
-- **Pop:** se caracteriza por sus melodías pegadizas.
-- **Rock:** utiliza principalmente guitarras y batería.
-- **Reguetón:** tiene ritmos urbanos y bailables.
-- **Música clásica:** incluye composiciones instrumentales y orquestales.
-- **Música cristiana:** transmite mensajes de fe y esperanza.
-## Beneficios de la música
-
-- Ayuda a expresar emociones.
-- Puede mejorar el estado de ánimo.
-- Estimula la creatividad.
-- Nos permite conectar con otras personas.
