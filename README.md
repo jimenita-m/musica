@@ -29,3 +29,9 @@ El proyecto se encuentra en desarrollo. Actualmente, cuenta con información gen
 - **Reguetón:** tiene ritmos urbanos y bailables.
 - **Música clásica:** incluye composiciones instrumentales y orquestales.
 - **Música cristiana:** transmite mensajes de fe y esperanza.
+## Beneficios de la música
+
+- Ayuda a expresar emociones.
+- Puede mejorar el estado de ánimo.
+- Estimula la creatividad.
+- Nos permite conectar con otras personas.
